@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "golden-dogecoin-isolated-white-background-110232751.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
